@@ -1,5 +1,5 @@
 # MailSignature
 
-Check the Inspiration tutorial [here](https://academind.com/tutorials/build-a-custom-email-signature)
+[Check the Inspiration tutorial](https://academind.com/tutorials/build-a-custom-email-signature)
 
-You can access the signature sample [here](https://gfbritto.github.io/TechEduFrontEnd/)
+[Access the signature sample](https://gfbritto.github.io/TechEduFrontEnd/)
